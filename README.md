@@ -1,2 +1,2 @@
 # atlantis-test
-Atlantis-tes repo
+Atlantis-test repo
